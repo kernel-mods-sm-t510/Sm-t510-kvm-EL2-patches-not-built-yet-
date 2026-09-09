@@ -2,3 +2,4 @@
 Enables KVM for sm-t510 only (not the t515 and the fact it's ported from p200 xda developers xda lifebreathing project so u need to modify this tab beforehand)
 This is unique as the tab doesn't have kvm features out of the box.
 It's arm64
+it's built from the touchgrass kernel again from the xda lifebreathing project for this tab.
